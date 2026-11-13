@@ -178,6 +178,16 @@ header {
   text-align: center;
 }
 
+.titulo p {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  line-height: 24px;
+  min-height: 48px;
+  max-height: 48px;
+}
+
 p {
   font-size: 20px;
 }
