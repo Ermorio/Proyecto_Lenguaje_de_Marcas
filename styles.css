@@ -135,6 +135,14 @@ main {
 
 header {
   color: white;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 30px;
+}
+
+.buscador {
+  width: 300px;
 }
 
 .logo {
@@ -149,6 +157,7 @@ header {
   display: flex;
   justify-content: space-around;
   width: 100%;
+  flex-wrap: wrap;
 }
 
 .album {
