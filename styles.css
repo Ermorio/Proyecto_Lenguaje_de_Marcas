@@ -138,6 +138,7 @@ header {
   display: flex;
   justify-content: center;
   align-content: center;
+  align-items: center;
   gap: 30px;
   margin: 10px;
 }
@@ -149,6 +150,7 @@ header {
 
 .buscador {
   width: 300px;
+  height: 25px;
 }
 
 .biblioteca {
