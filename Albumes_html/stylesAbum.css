@@ -128,3 +128,17 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.contenedorAlbum {
+  width: 80%;
+  margin: 200px auto 0 auto;
+  background-color: rgb(49, 47, 47);
+}
+
+img {
+  max-width: 500px;
+}
+
+.portada {
+  width: 40%;
+}
